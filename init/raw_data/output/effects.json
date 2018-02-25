@@ -1,0 +1,3042 @@
+[
+    {
+        "id": 2,
+        "description_id": 434700,
+        "weight": 0
+    },
+    {
+        "id": 3,
+        "description_id": 435292,
+        "weight": 0
+    },
+    {
+        "id": 4,
+        "description_id": 426637,
+        "weight": 0
+    },
+    {
+        "id": 5,
+        "description_id": 426695,
+        "weight": 0
+    },
+    {
+        "id": 6,
+        "description_id": 426763,
+        "weight": 0
+    },
+    {
+        "id": 7,
+        "description_id": 427059,
+        "weight": 0
+    },
+    {
+        "id": 8,
+        "description_id": 426937,
+        "weight": 0
+    },
+    {
+        "id": 9,
+        "description_id": 426697,
+        "weight": 0
+    },
+    {
+        "id": 10,
+        "description_id": 426758,
+        "weight": 0
+    },
+    {
+        "id": 12,
+        "description_id": 558748,
+        "weight": 0
+    },
+    {
+        "id": 13,
+        "description_id": 426881,
+        "weight": 0
+    },
+    {
+        "id": 30,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 31,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 32,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 34,
+        "description_id": 426798,
+        "weight": 0
+    },
+    {
+        "id": 36,
+        "description_id": 659062,
+        "weight": 0
+    },
+    {
+        "id": 37,
+        "description_id": 564697,
+        "weight": 0
+    },
+    {
+        "id": 50,
+        "description_id": 426723,
+        "weight": 0
+    },
+    {
+        "id": 51,
+        "description_id": 426967,
+        "weight": 0
+    },
+    {
+        "id": 77,
+        "description_id": 427038,
+        "weight": 0
+    },
+    {
+        "id": 78,
+        "description_id": 426620,
+        "weight": 0
+    },
+    {
+        "id": 79,
+        "description_id": 427044,
+        "weight": 0
+    },
+    {
+        "id": 81,
+        "description_id": 426854,
+        "weight": 0
+    },
+    {
+        "id": 82,
+        "description_id": 426935,
+        "weight": 0
+    },
+    {
+        "id": 84,
+        "description_id": 426652,
+        "weight": 0
+    },
+    {
+        "id": 85,
+        "description_id": 426706,
+        "weight": 0
+    },
+    {
+        "id": 86,
+        "description_id": 426696,
+        "weight": 0
+    },
+    {
+        "id": 87,
+        "description_id": 426986,
+        "weight": 0
+    },
+    {
+        "id": 88,
+        "description_id": 426664,
+        "weight": 0
+    },
+    {
+        "id": 89,
+        "description_id": 426662,
+        "weight": 0
+    },
+    {
+        "id": 90,
+        "description_id": 426688,
+        "weight": 0
+    },
+    {
+        "id": 91,
+        "description_id": 426762,
+        "weight": 0
+    },
+    {
+        "id": 92,
+        "description_id": 427039,
+        "weight": 0
+    },
+    {
+        "id": 93,
+        "description_id": 426777,
+        "weight": 0
+    },
+    {
+        "id": 94,
+        "description_id": 426694,
+        "weight": 0
+    },
+    {
+        "id": 95,
+        "description_id": 427109,
+        "weight": 0
+    },
+    {
+        "id": 96,
+        "description_id": 426715,
+        "weight": 0
+    },
+    {
+        "id": 97,
+        "description_id": 426599,
+        "weight": 0
+    },
+    {
+        "id": 98,
+        "description_id": 426789,
+        "weight": 0
+    },
+    {
+        "id": 99,
+        "description_id": 427051,
+        "weight": 0
+    },
+    {
+        "id": 100,
+        "description_id": 426679,
+        "weight": 0
+    },
+    {
+        "id": 101,
+        "description_id": 426749,
+        "weight": 0
+    },
+    {
+        "id": 105,
+        "description_id": 426731,
+        "weight": 0
+    },
+    {
+        "id": 106,
+        "description_id": 427042,
+        "weight": 0
+    },
+    {
+        "id": 107,
+        "description_id": 427119,
+        "weight": 0
+    },
+    {
+        "id": 108,
+        "description_id": 426692,
+        "weight": 0
+    },
+    {
+        "id": 109,
+        "description_id": 426615,
+        "weight": 0
+    },
+    {
+        "id": 110,
+        "description_id": 426956,
+        "weight": 0
+    },
+    {
+        "id": 111,
+        "description_id": 426847,
+        "weight": 100.0
+    },
+    {
+        "id": 112,
+        "description_id": 426678,
+        "weight": 20.0
+    },
+    {
+        "id": 113,
+        "description_id": 427022,
+        "weight": 0
+    },
+    {
+        "id": 114,
+        "description_id": 426870,
+        "weight": 0
+    },
+    {
+        "id": 115,
+        "description_id": 720833,
+        "weight": 10.0
+    },
+    {
+        "id": 116,
+        "description_id": 598518,
+        "weight": -25.5
+    },
+    {
+        "id": 117,
+        "description_id": 598519,
+        "weight": 51.0
+    },
+    {
+        "id": 118,
+        "description_id": 426815,
+        "weight": 1.0
+    },
+    {
+        "id": 119,
+        "description_id": 426868,
+        "weight": 1.0
+    },
+    {
+        "id": 120,
+        "description_id": 426626,
+        "weight": 0
+    },
+    {
+        "id": 121,
+        "description_id": 426753,
+        "weight": 0
+    },
+    {
+        "id": 122,
+        "description_id": 426733,
+        "weight": 0
+    },
+    {
+        "id": 123,
+        "description_id": 426904,
+        "weight": 1.0
+    },
+    {
+        "id": 124,
+        "description_id": 426948,
+        "weight": 3.0
+    },
+    {
+        "id": 125,
+        "description_id": 426722,
+        "weight": 0.2
+    },
+    {
+        "id": 126,
+        "description_id": 426962,
+        "weight": 1.0
+    },
+    {
+        "id": 127,
+        "description_id": 426608,
+        "weight": 0
+    },
+    {
+        "id": 128,
+        "description_id": 426813,
+        "weight": 90.0
+    },
+    {
+        "id": 130,
+        "description_id": 559149,
+        "weight": 0
+    },
+    {
+        "id": 131,
+        "description_id": 426804,
+        "weight": 0
+    },
+    {
+        "id": 132,
+        "description_id": 426663,
+        "weight": 0
+    },
+    {
+        "id": 133,
+        "description_id": 426831,
+        "weight": 0
+    },
+    {
+        "id": 134,
+        "description_id": 426977,
+        "weight": 0
+    },
+    {
+        "id": 135,
+        "description_id": 426966,
+        "weight": 0
+    },
+    {
+        "id": 136,
+        "description_id": 426858,
+        "weight": 0
+    },
+    {
+        "id": 137,
+        "description_id": 426807,
+        "weight": 0
+    },
+    {
+        "id": 138,
+        "description_id": 427036,
+        "weight": 2.0
+    },
+    {
+        "id": 139,
+        "description_id": 426964,
+        "weight": 0
+    },
+    {
+        "id": 140,
+        "description_id": 426792,
+        "weight": 0
+    },
+    {
+        "id": 141,
+        "description_id": 427113,
+        "weight": 0
+    },
+    {
+        "id": 142,
+        "description_id": 426927,
+        "weight": 0
+    },
+    {
+        "id": 143,
+        "description_id": 426890,
+        "weight": 0
+    },
+    {
+        "id": 144,
+        "description_id": 426894,
+        "weight": 0
+    },
+    {
+        "id": 145,
+        "description_id": 637594,
+        "weight": -10.0
+    },
+    {
+        "id": 146,
+        "description_id": 426619,
+        "weight": 0
+    },
+    {
+        "id": 147,
+        "description_id": 427006,
+        "weight": 0
+    },
+    {
+        "id": 148,
+        "description_id": 426759,
+        "weight": 0
+    },
+    {
+        "id": 149,
+        "description_id": 426610,
+        "weight": 0
+    },
+    {
+        "id": 150,
+        "description_id": 427069,
+        "weight": 0
+    },
+    {
+        "id": 152,
+        "description_id": 426739,
+        "weight": -0.5
+    },
+    {
+        "id": 153,
+        "description_id": 426654,
+        "weight": -0.1
+    },
+    {
+        "id": 154,
+        "description_id": 426939,
+        "weight": -0.5
+    },
+    {
+        "id": 155,
+        "description_id": 426829,
+        "weight": -0.5
+    },
+    {
+        "id": 156,
+        "description_id": 426866,
+        "weight": -1.5
+    },
+    {
+        "id": 157,
+        "description_id": 426741,
+        "weight": -0.5
+    },
+    {
+        "id": 158,
+        "description_id": 426805,
+        "weight": 0.25
+    },
+    {
+        "id": 159,
+        "description_id": 637588,
+        "weight": -0.125
+    },
+    {
+        "id": 160,
+        "description_id": 426653,
+        "weight": 7.0
+    },
+    {
+        "id": 161,
+        "description_id": 427026,
+        "weight": 7.0
+    },
+    {
+        "id": 162,
+        "description_id": 637607,
+        "weight": -3.5
+    },
+    {
+        "id": 163,
+        "description_id": 637606,
+        "weight": -3.5
+    },
+    {
+        "id": 164,
+        "description_id": 426735,
+        "weight": 0
+    },
+    {
+        "id": 165,
+        "description_id": 426838,
+        "weight": 0
+    },
+    {
+        "id": 166,
+        "description_id": 426705,
+        "weight": 0
+    },
+    {
+        "id": 168,
+        "description_id": 426809,
+        "weight": -50.0
+    },
+    {
+        "id": 169,
+        "description_id": 426990,
+        "weight": -45.0
+    },
+    {
+        "id": 171,
+        "description_id": 637595,
+        "weight": -5.0
+    },
+    {
+        "id": 172,
+        "description_id": 637592,
+        "weight": 0
+    },
+    {
+        "id": 173,
+        "description_id": 637591,
+        "weight": 0
+    },
+    {
+        "id": 174,
+        "description_id": 427024,
+        "weight": 0.1
+    },
+    {
+        "id": 175,
+        "description_id": 637589,
+        "weight": -0.05
+    },
+    {
+        "id": 176,
+        "description_id": 426670,
+        "weight": 3.0
+    },
+    {
+        "id": 177,
+        "description_id": 637587,
+        "weight": -1.5
+    },
+    {
+        "id": 178,
+        "description_id": 426934,
+        "weight": 10.0
+    },
+    {
+        "id": 179,
+        "description_id": 637593,
+        "weight": -5.0
+    },
+    {
+        "id": 180,
+        "description_id": 426853,
+        "weight": 0
+    },
+    {
+        "id": 181,
+        "description_id": 426821,
+        "weight": 0
+    },
+    {
+        "id": 182,
+        "description_id": 426661,
+        "weight": 30.0
+    },
+    {
+        "id": 183,
+        "description_id": 426970,
+        "weight": 0
+    },
+    {
+        "id": 184,
+        "description_id": 426633,
+        "weight": 0
+    },
+    {
+        "id": 185,
+        "description_id": 426930,
+        "weight": 0
+    },
+    {
+        "id": 186,
+        "description_id": 637596,
+        "weight": -1.0
+    },
+    {
+        "id": 188,
+        "description_id": 427049,
+        "weight": 0
+    },
+    {
+        "id": 192,
+        "description_id": 426826,
+        "weight": 0
+    },
+    {
+        "id": 193,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 194,
+        "description_id": 434371,
+        "weight": 0
+    },
+    {
+        "id": 197,
+        "description_id": 426960,
+        "weight": 0
+    },
+    {
+        "id": 201,
+        "description_id": 426887,
+        "weight": 0
+    },
+    {
+        "id": 202,
+        "description_id": 427031,
+        "weight": 0
+    },
+    {
+        "id": 206,
+        "description_id": 426660,
+        "weight": 0
+    },
+    {
+        "id": 210,
+        "description_id": 541995,
+        "weight": 6.0
+    },
+    {
+        "id": 211,
+        "description_id": 519488,
+        "weight": 6.0
+    },
+    {
+        "id": 212,
+        "description_id": 519489,
+        "weight": 6.0
+    },
+    {
+        "id": 213,
+        "description_id": 519487,
+        "weight": 6.0
+    },
+    {
+        "id": 214,
+        "description_id": 519493,
+        "weight": 6.0
+    },
+    {
+        "id": 215,
+        "description_id": 637598,
+        "weight": -3.0
+    },
+    {
+        "id": 216,
+        "description_id": 637604,
+        "weight": -3.0
+    },
+    {
+        "id": 217,
+        "description_id": 637590,
+        "weight": -3.0
+    },
+    {
+        "id": 218,
+        "description_id": 637602,
+        "weight": -3.0
+    },
+    {
+        "id": 219,
+        "description_id": 637600,
+        "weight": -3.0
+    },
+    {
+        "id": 220,
+        "description_id": 426636,
+        "weight": 10.0
+    },
+    {
+        "id": 221,
+        "description_id": 427029,
+        "weight": 0
+    },
+    {
+        "id": 222,
+        "description_id": 427035,
+        "weight": 0
+    },
+    {
+        "id": 225,
+        "description_id": 426822,
+        "weight": 5.0
+    },
+    {
+        "id": 226,
+        "description_id": 584321,
+        "weight": 2.0
+    },
+    {
+        "id": 229,
+        "description_id": 427007,
+        "weight": 0
+    },
+    {
+        "id": 230,
+        "description_id": 426726,
+        "weight": 0
+    },
+    {
+        "id": 239,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 240,
+        "description_id": 426926,
+        "weight": 2.0
+    },
+    {
+        "id": 241,
+        "description_id": 426742,
+        "weight": 2.0
+    },
+    {
+        "id": 242,
+        "description_id": 427097,
+        "weight": 2.0
+    },
+    {
+        "id": 243,
+        "description_id": 427079,
+        "weight": 2.0
+    },
+    {
+        "id": 244,
+        "description_id": 426846,
+        "weight": 2.0
+    },
+    {
+        "id": 245,
+        "description_id": 637615,
+        "weight": -1.0
+    },
+    {
+        "id": 246,
+        "description_id": 637618,
+        "weight": -1.0
+    },
+    {
+        "id": 247,
+        "description_id": 637619,
+        "weight": -1.0
+    },
+    {
+        "id": 248,
+        "description_id": 637617,
+        "weight": -1.0
+    },
+    {
+        "id": 249,
+        "description_id": 637616,
+        "weight": -1.0
+    },
+    {
+        "id": 250,
+        "description_id": 519495,
+        "weight": 0
+    },
+    {
+        "id": 251,
+        "description_id": 519498,
+        "weight": 0
+    },
+    {
+        "id": 252,
+        "description_id": 519499,
+        "weight": 0
+    },
+    {
+        "id": 253,
+        "description_id": 519497,
+        "weight": 0
+    },
+    {
+        "id": 254,
+        "description_id": 519496,
+        "weight": 0
+    },
+    {
+        "id": 255,
+        "description_id": 637597,
+        "weight": 0
+    },
+    {
+        "id": 256,
+        "description_id": 637603,
+        "weight": 0
+    },
+    {
+        "id": 257,
+        "description_id": 637605,
+        "weight": 0
+    },
+    {
+        "id": 258,
+        "description_id": 637601,
+        "weight": 0
+    },
+    {
+        "id": 259,
+        "description_id": 637599,
+        "weight": 0
+    },
+    {
+        "id": 260,
+        "description_id": 426921,
+        "weight": 0
+    },
+    {
+        "id": 261,
+        "description_id": 427098,
+        "weight": 0
+    },
+    {
+        "id": 262,
+        "description_id": 427094,
+        "weight": 0
+    },
+    {
+        "id": 263,
+        "description_id": 427103,
+        "weight": 0
+    },
+    {
+        "id": 264,
+        "description_id": 426974,
+        "weight": 0
+    },
+    {
+        "id": 265,
+        "description_id": 426703,
+        "weight": 0
+    },
+    {
+        "id": 266,
+        "description_id": 427068,
+        "weight": 0
+    },
+    {
+        "id": 267,
+        "description_id": 426816,
+        "weight": 0
+    },
+    {
+        "id": 268,
+        "description_id": 427121,
+        "weight": 0
+    },
+    {
+        "id": 269,
+        "description_id": 426682,
+        "weight": 0
+    },
+    {
+        "id": 270,
+        "description_id": 426710,
+        "weight": 0
+    },
+    {
+        "id": 271,
+        "description_id": 426957,
+        "weight": 0
+    },
+    {
+        "id": 275,
+        "description_id": 426761,
+        "weight": 0
+    },
+    {
+        "id": 276,
+        "description_id": 426905,
+        "weight": 0
+    },
+    {
+        "id": 277,
+        "description_id": 427115,
+        "weight": 0
+    },
+    {
+        "id": 278,
+        "description_id": 426631,
+        "weight": 0
+    },
+    {
+        "id": 279,
+        "description_id": 426644,
+        "weight": 0
+    },
+    {
+        "id": 281,
+        "description_id": 598520,
+        "weight": 0
+    },
+    {
+        "id": 282,
+        "description_id": 426621,
+        "weight": 0
+    },
+    {
+        "id": 283,
+        "description_id": 662479,
+        "weight": 0
+    },
+    {
+        "id": 284,
+        "description_id": 662480,
+        "weight": 0
+    },
+    {
+        "id": 285,
+        "description_id": 426845,
+        "weight": 0
+    },
+    {
+        "id": 286,
+        "description_id": 426719,
+        "weight": 0
+    },
+    {
+        "id": 287,
+        "description_id": 662467,
+        "weight": 0
+    },
+    {
+        "id": 288,
+        "description_id": 426855,
+        "weight": 0
+    },
+    {
+        "id": 289,
+        "description_id": 426851,
+        "weight": 0
+    },
+    {
+        "id": 290,
+        "description_id": 426812,
+        "weight": 0
+    },
+    {
+        "id": 291,
+        "description_id": 426842,
+        "weight": 0
+    },
+    {
+        "id": 292,
+        "description_id": 427048,
+        "weight": 0
+    },
+    {
+        "id": 293,
+        "description_id": 426767,
+        "weight": 0
+    },
+    {
+        "id": 294,
+        "description_id": 426865,
+        "weight": 0
+    },
+    {
+        "id": 310,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 320,
+        "description_id": 426684,
+        "weight": 0
+    },
+    {
+        "id": 333,
+        "description_id": 426781,
+        "weight": 0
+    },
+    {
+        "id": 335,
+        "description_id": 427060,
+        "weight": 0
+    },
+    {
+        "id": 350,
+        "description_id": 426720,
+        "weight": 0
+    },
+    {
+        "id": 351,
+        "description_id": 426968,
+        "weight": 0
+    },
+    {
+        "id": 400,
+        "description_id": 427107,
+        "weight": 0
+    },
+    {
+        "id": 401,
+        "description_id": 426665,
+        "weight": 0
+    },
+    {
+        "id": 402,
+        "description_id": 426770,
+        "weight": 0
+    },
+    {
+        "id": 405,
+        "description_id": 507439,
+        "weight": 0
+    },
+    {
+        "id": 406,
+        "description_id": 456821,
+        "weight": 0
+    },
+    {
+        "id": 407,
+        "description_id": 426976,
+        "weight": 0
+    },
+    {
+        "id": 410,
+        "description_id": 426666,
+        "weight": 7.0
+    },
+    {
+        "id": 411,
+        "description_id": 637629,
+        "weight": -3.5
+    },
+    {
+        "id": 412,
+        "description_id": 426747,
+        "weight": 7.0
+    },
+    {
+        "id": 413,
+        "description_id": 637628,
+        "weight": -3.5
+    },
+    {
+        "id": 414,
+        "description_id": 426677,
+        "weight": 5.0
+    },
+    {
+        "id": 415,
+        "description_id": 637612,
+        "weight": -2.5
+    },
+    {
+        "id": 416,
+        "description_id": 427018,
+        "weight": 2.0
+    },
+    {
+        "id": 417,
+        "description_id": 637623,
+        "weight": -1.0
+    },
+    {
+        "id": 418,
+        "description_id": 426859,
+        "weight": 5.0
+    },
+    {
+        "id": 419,
+        "description_id": 637613,
+        "weight": -2.5
+    },
+    {
+        "id": 420,
+        "description_id": 426918,
+        "weight": 2.0
+    },
+    {
+        "id": 421,
+        "description_id": 637624,
+        "weight": -1.0
+    },
+    {
+        "id": 422,
+        "description_id": 426875,
+        "weight": 5.0
+    },
+    {
+        "id": 423,
+        "description_id": 637608,
+        "weight": -2.5
+    },
+    {
+        "id": 424,
+        "description_id": 426955,
+        "weight": 5.0
+    },
+    {
+        "id": 425,
+        "description_id": 637610,
+        "weight": -2.5
+    },
+    {
+        "id": 426,
+        "description_id": 427057,
+        "weight": 5.0
+    },
+    {
+        "id": 427,
+        "description_id": 637611,
+        "weight": -2.5
+    },
+    {
+        "id": 428,
+        "description_id": 426729,
+        "weight": 5.0
+    },
+    {
+        "id": 429,
+        "description_id": 637614,
+        "weight": -2.5
+    },
+    {
+        "id": 430,
+        "description_id": 427019,
+        "weight": 5.0
+    },
+    {
+        "id": 431,
+        "description_id": 637609,
+        "weight": -2.5
+    },
+    {
+        "id": 440,
+        "description_id": 427099,
+        "weight": 0
+    },
+    {
+        "id": 441,
+        "description_id": 426925,
+        "weight": 0
+    },
+    {
+        "id": 509,
+        "description_id": 434705,
+        "weight": 0
+    },
+    {
+        "id": 513,
+        "description_id": 426683,
+        "weight": 0
+    },
+    {
+        "id": 516,
+        "description_id": 659057,
+        "weight": 0
+    },
+    {
+        "id": 517,
+        "description_id": 509583,
+        "weight": 0
+    },
+    {
+        "id": 600,
+        "description_id": 427084,
+        "weight": 0
+    },
+    {
+        "id": 601,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 602,
+        "description_id": 427034,
+        "weight": 0
+    },
+    {
+        "id": 603,
+        "description_id": 426869,
+        "weight": 0
+    },
+    {
+        "id": 604,
+        "description_id": 703207,
+        "weight": 0
+    },
+    {
+        "id": 605,
+        "description_id": 426959,
+        "weight": 0
+    },
+    {
+        "id": 606,
+        "description_id": 737929,
+        "weight": 0
+    },
+    {
+        "id": 607,
+        "description_id": 737931,
+        "weight": 0
+    },
+    {
+        "id": 608,
+        "description_id": 737930,
+        "weight": 0
+    },
+    {
+        "id": 609,
+        "description_id": 737927,
+        "weight": 0
+    },
+    {
+        "id": 610,
+        "description_id": 737928,
+        "weight": 0
+    },
+    {
+        "id": 611,
+        "description_id": 737926,
+        "weight": 0
+    },
+    {
+        "id": 612,
+        "description_id": 427064,
+        "weight": 0
+    },
+    {
+        "id": 613,
+        "description_id": 426923,
+        "weight": 0
+    },
+    {
+        "id": 614,
+        "description_id": 427081,
+        "weight": 0
+    },
+    {
+        "id": 615,
+        "description_id": 426650,
+        "weight": 0
+    },
+    {
+        "id": 616,
+        "description_id": 426800,
+        "weight": 0
+    },
+    {
+        "id": 620,
+        "description_id": 427090,
+        "weight": 0
+    },
+    {
+        "id": 621,
+        "description_id": 426840,
+        "weight": 0
+    },
+    {
+        "id": 622,
+        "description_id": 427025,
+        "weight": 0
+    },
+    {
+        "id": 623,
+        "description_id": 426972,
+        "weight": 0
+    },
+    {
+        "id": 624,
+        "description_id": 426985,
+        "weight": 0
+    },
+    {
+        "id": 625,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 626,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 627,
+        "description_id": 427122,
+        "weight": 0
+    },
+    {
+        "id": 628,
+        "description_id": 426844,
+        "weight": 0
+    },
+    {
+        "id": 629,
+        "description_id": 711477,
+        "weight": 0
+    },
+    {
+        "id": 630,
+        "description_id": 426785,
+        "weight": 0
+    },
+    {
+        "id": 631,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 632,
+        "description_id": 427046,
+        "weight": 0
+    },
+    {
+        "id": 640,
+        "description_id": 426924,
+        "weight": 0
+    },
+    {
+        "id": 641,
+        "description_id": 426906,
+        "weight": 0
+    },
+    {
+        "id": 642,
+        "description_id": 427076,
+        "weight": 0
+    },
+    {
+        "id": 643,
+        "description_id": 426808,
+        "weight": 0
+    },
+    {
+        "id": 645,
+        "description_id": 427071,
+        "weight": 0
+    },
+    {
+        "id": 646,
+        "description_id": 426913,
+        "weight": 0
+    },
+    {
+        "id": 647,
+        "description_id": 426676,
+        "weight": 0
+    },
+    {
+        "id": 648,
+        "description_id": 427117,
+        "weight": 0
+    },
+    {
+        "id": 649,
+        "description_id": 426724,
+        "weight": 0
+    },
+    {
+        "id": 652,
+        "description_id": 528654,
+        "weight": 0
+    },
+    {
+        "id": 654,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 666,
+        "description_id": 426655,
+        "weight": 0
+    },
+    {
+        "id": 669,
+        "description_id": 427070,
+        "weight": 0
+    },
+    {
+        "id": 670,
+        "description_id": 426942,
+        "weight": 0
+    },
+    {
+        "id": 671,
+        "description_id": 426659,
+        "weight": 0
+    },
+    {
+        "id": 672,
+        "description_id": 426716,
+        "weight": 0
+    },
+    {
+        "id": 699,
+        "description_id": 426839,
+        "weight": 0
+    },
+    {
+        "id": 700,
+        "description_id": 426778,
+        "weight": 0
+    },
+    {
+        "id": 701,
+        "description_id": 426920,
+        "weight": 0
+    },
+    {
+        "id": 702,
+        "description_id": 426766,
+        "weight": 0
+    },
+    {
+        "id": 705,
+        "description_id": 426617,
+        "weight": 0
+    },
+    {
+        "id": 706,
+        "description_id": 644251,
+        "weight": 0
+    },
+    {
+        "id": 707,
+        "description_id": 426730,
+        "weight": 0
+    },
+    {
+        "id": 710,
+        "description_id": 426689,
+        "weight": 0
+    },
+    {
+        "id": 715,
+        "description_id": 426784,
+        "weight": 0
+    },
+    {
+        "id": 716,
+        "description_id": 426989,
+        "weight": 0
+    },
+    {
+        "id": 717,
+        "description_id": 426708,
+        "weight": 0
+    },
+    {
+        "id": 720,
+        "description_id": 426772,
+        "weight": 0
+    },
+    {
+        "id": 722,
+        "description_id": 746511,
+        "weight": 0
+    },
+    {
+        "id": 724,
+        "description_id": 427089,
+        "weight": 0
+    },
+    {
+        "id": 725,
+        "description_id": 426779,
+        "weight": 0
+    },
+    {
+        "id": 726,
+        "description_id": 434758,
+        "weight": 0
+    },
+    {
+        "id": 730,
+        "description_id": 426876,
+        "weight": 0
+    },
+    {
+        "id": 731,
+        "description_id": 426668,
+        "weight": 0
+    },
+    {
+        "id": 732,
+        "description_id": 426602,
+        "weight": 0
+    },
+    {
+        "id": 740,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 741,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 742,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 750,
+        "description_id": 426950,
+        "weight": 0
+    },
+    {
+        "id": 751,
+        "description_id": 427009,
+        "weight": 0
+    },
+    {
+        "id": 752,
+        "description_id": 426607,
+        "weight": 4.0
+    },
+    {
+        "id": 753,
+        "description_id": 426824,
+        "weight": 4.0
+    },
+    {
+        "id": 754,
+        "description_id": 637630,
+        "weight": -2.0
+    },
+    {
+        "id": 755,
+        "description_id": 637627,
+        "weight": -2.0
+    },
+    {
+        "id": 760,
+        "description_id": 427027,
+        "weight": 0
+    },
+    {
+        "id": 765,
+        "description_id": 426983,
+        "weight": 0
+    },
+    {
+        "id": 770,
+        "description_id": 426630,
+        "weight": 0
+    },
+    {
+        "id": 771,
+        "description_id": 426623,
+        "weight": 0
+    },
+    {
+        "id": 772,
+        "description_id": 426672,
+        "weight": 0
+    },
+    {
+        "id": 773,
+        "description_id": 427030,
+        "weight": 0
+    },
+    {
+        "id": 774,
+        "description_id": 427001,
+        "weight": 0
+    },
+    {
+        "id": 775,
+        "description_id": 427041,
+        "weight": 0
+    },
+    {
+        "id": 776,
+        "description_id": 427120,
+        "weight": 0
+    },
+    {
+        "id": 778,
+        "description_id": 535804,
+        "weight": 0
+    },
+    {
+        "id": 780,
+        "description_id": 426931,
+        "weight": 0
+    },
+    {
+        "id": 781,
+        "description_id": 427118,
+        "weight": 0
+    },
+    {
+        "id": 782,
+        "description_id": 426997,
+        "weight": 0
+    },
+    {
+        "id": 783,
+        "description_id": 427004,
+        "weight": 0
+    },
+    {
+        "id": 784,
+        "description_id": 426850,
+        "weight": 0
+    },
+    {
+        "id": 785,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 786,
+        "description_id": 508734,
+        "weight": 0
+    },
+    {
+        "id": 787,
+        "description_id": 426823,
+        "weight": 0
+    },
+    {
+        "id": 788,
+        "description_id": 426907,
+        "weight": 0
+    },
+    {
+        "id": 789,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 790,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 791,
+        "description_id": 426963,
+        "weight": 0
+    },
+    {
+        "id": 792,
+        "description_id": 426755,
+        "weight": 0
+    },
+    {
+        "id": 793,
+        "description_id": 426614,
+        "weight": 0
+    },
+    {
+        "id": 795,
+        "description_id": 426936,
+        "weight": 5.0
+    },
+    {
+        "id": 796,
+        "description_id": 434691,
+        "weight": 0
+    },
+    {
+        "id": 800,
+        "description_id": 426892,
+        "weight": 0
+    },
+    {
+        "id": 805,
+        "description_id": 426954,
+        "weight": 0
+    },
+    {
+        "id": 806,
+        "description_id": 427054,
+        "weight": 0
+    },
+    {
+        "id": 807,
+        "description_id": 426873,
+        "weight": 0
+    },
+    {
+        "id": 808,
+        "description_id": 426775,
+        "weight": 0
+    },
+    {
+        "id": 810,
+        "description_id": 426646,
+        "weight": 0
+    },
+    {
+        "id": 811,
+        "description_id": 426791,
+        "weight": 0
+    },
+    {
+        "id": 812,
+        "description_id": 692429,
+        "weight": 0
+    },
+    {
+        "id": 813,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 814,
+        "description_id": 427085,
+        "weight": 0
+    },
+    {
+        "id": 815,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 816,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 825,
+        "description_id": 427108,
+        "weight": 0
+    },
+    {
+        "id": 826,
+        "description_id": 426604,
+        "weight": 0
+    },
+    {
+        "id": 831,
+        "description_id": 435242,
+        "weight": 0
+    },
+    {
+        "id": 905,
+        "description_id": 427008,
+        "weight": 0
+    },
+    {
+        "id": 911,
+        "description_id": 437348,
+        "weight": 0
+    },
+    {
+        "id": 916,
+        "description_id": 426641,
+        "weight": 0
+    },
+    {
+        "id": 917,
+        "description_id": 426675,
+        "weight": 0
+    },
+    {
+        "id": 930,
+        "description_id": 426671,
+        "weight": 0
+    },
+    {
+        "id": 931,
+        "description_id": 426685,
+        "weight": 0
+    },
+    {
+        "id": 932,
+        "description_id": 427083,
+        "weight": 0
+    },
+    {
+        "id": 933,
+        "description_id": 426801,
+        "weight": 0
+    },
+    {
+        "id": 934,
+        "description_id": 426771,
+        "weight": 0
+    },
+    {
+        "id": 935,
+        "description_id": 426998,
+        "weight": 0
+    },
+    {
+        "id": 936,
+        "description_id": 427072,
+        "weight": 0
+    },
+    {
+        "id": 937,
+        "description_id": 426601,
+        "weight": 0
+    },
+    {
+        "id": 939,
+        "description_id": 426903,
+        "weight": 0
+    },
+    {
+        "id": 940,
+        "description_id": 426995,
+        "weight": 0
+    },
+    {
+        "id": 946,
+        "description_id": 426616,
+        "weight": 0
+    },
+    {
+        "id": 947,
+        "description_id": 427005,
+        "weight": 0
+    },
+    {
+        "id": 948,
+        "description_id": 427000,
+        "weight": 0
+    },
+    {
+        "id": 949,
+        "description_id": 426612,
+        "weight": 0
+    },
+    {
+        "id": 950,
+        "description_id": 426645,
+        "weight": 0
+    },
+    {
+        "id": 951,
+        "description_id": 427065,
+        "weight": 0
+    },
+    {
+        "id": 952,
+        "description_id": 426674,
+        "weight": 0
+    },
+    {
+        "id": 960,
+        "description_id": 426748,
+        "weight": 0
+    },
+    {
+        "id": 961,
+        "description_id": 426819,
+        "weight": 0
+    },
+    {
+        "id": 962,
+        "description_id": 426622,
+        "weight": 0
+    },
+    {
+        "id": 963,
+        "description_id": 426834,
+        "weight": 0
+    },
+    {
+        "id": 964,
+        "description_id": 426797,
+        "weight": 0
+    },
+    {
+        "id": 970,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 971,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 972,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 973,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 974,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 981,
+        "description_id": 426704,
+        "weight": 0
+    },
+    {
+        "id": 982,
+        "description_id": 426919,
+        "weight": 0
+    },
+    {
+        "id": 983,
+        "description_id": 426743,
+        "weight": 0
+    },
+    {
+        "id": 984,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 985,
+        "description_id": 426754,
+        "weight": 0
+    },
+    {
+        "id": 986,
+        "description_id": 427052,
+        "weight": 0
+    },
+    {
+        "id": 987,
+        "description_id": 426878,
+        "weight": 0
+    },
+    {
+        "id": 988,
+        "description_id": 426848,
+        "weight": 0
+    },
+    {
+        "id": 989,
+        "description_id": 426863,
+        "weight": 0
+    },
+    {
+        "id": 990,
+        "description_id": 426817,
+        "weight": 0
+    },
+    {
+        "id": 994,
+        "description_id": 426810,
+        "weight": 0
+    },
+    {
+        "id": 995,
+        "description_id": 577703,
+        "weight": 0
+    },
+    {
+        "id": 996,
+        "description_id": 426806,
+        "weight": 0
+    },
+    {
+        "id": 997,
+        "description_id": 426895,
+        "weight": 0
+    },
+    {
+        "id": 998,
+        "description_id": 426737,
+        "weight": 0
+    },
+    {
+        "id": 999,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 1002,
+        "description_id": 434450,
+        "weight": 0
+    },
+    {
+        "id": 1003,
+        "description_id": 427021,
+        "weight": 0
+    },
+    {
+        "id": 1004,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 1005,
+        "description_id": 426952,
+        "weight": 0
+    },
+    {
+        "id": 1006,
+        "description_id": 426945,
+        "weight": 0
+    },
+    {
+        "id": 1007,
+        "description_id": 427047,
+        "weight": 0
+    },
+    {
+        "id": 1008,
+        "description_id": 426897,
+        "weight": 0
+    },
+    {
+        "id": 1009,
+        "description_id": 426760,
+        "weight": 0
+    },
+    {
+        "id": 1010,
+        "description_id": 426994,
+        "weight": 0
+    },
+    {
+        "id": 1011,
+        "description_id": 426702,
+        "weight": 0
+    },
+    {
+        "id": 1012,
+        "description_id": 426973,
+        "weight": 0
+    },
+    {
+        "id": 1013,
+        "description_id": 426648,
+        "weight": 0
+    },
+    {
+        "id": 1014,
+        "description_id": 426922,
+        "weight": 0
+    },
+    {
+        "id": 1015,
+        "description_id": 427116,
+        "weight": 0
+    },
+    {
+        "id": 1016,
+        "description_id": 426874,
+        "weight": 0
+    },
+    {
+        "id": 1017,
+        "description_id": 427062,
+        "weight": 0
+    },
+    {
+        "id": 1018,
+        "description_id": 427056,
+        "weight": 0
+    },
+    {
+        "id": 1019,
+        "description_id": 426946,
+        "weight": 0
+    },
+    {
+        "id": 1021,
+        "description_id": 426657,
+        "weight": 0
+    },
+    {
+        "id": 1022,
+        "description_id": 427050,
+        "weight": 0
+    },
+    {
+        "id": 1023,
+        "description_id": 426727,
+        "weight": 0
+    },
+    {
+        "id": 1024,
+        "description_id": 426883,
+        "weight": 0
+    },
+    {
+        "id": 1025,
+        "description_id": 426752,
+        "weight": 0
+    },
+    {
+        "id": 1026,
+        "description_id": 426790,
+        "weight": 0
+    },
+    {
+        "id": 1027,
+        "description_id": 426949,
+        "weight": 0
+    },
+    {
+        "id": 1028,
+        "description_id": 426639,
+        "weight": 0
+    },
+    {
+        "id": 1029,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 1030,
+        "description_id": 426814,
+        "weight": 0
+    },
+    {
+        "id": 1031,
+        "description_id": 426856,
+        "weight": 0
+    },
+    {
+        "id": 1032,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 1033,
+        "description_id": 427014,
+        "weight": 0
+    },
+    {
+        "id": 1034,
+        "description_id": 427095,
+        "weight": 0
+    },
+    {
+        "id": 1035,
+        "description_id": 427055,
+        "weight": 0
+    },
+    {
+        "id": 1036,
+        "description_id": 426861,
+        "weight": 0
+    },
+    {
+        "id": 1037,
+        "description_id": 434924,
+        "weight": 0
+    },
+    {
+        "id": 1038,
+        "description_id": 426951,
+        "weight": 0
+    },
+    {
+        "id": 1039,
+        "description_id": 426751,
+        "weight": 0
+    },
+    {
+        "id": 1040,
+        "description_id": 426647,
+        "weight": 0
+    },
+    {
+        "id": 1041,
+        "description_id": 426698,
+        "weight": 0
+    },
+    {
+        "id": 1042,
+        "description_id": 426975,
+        "weight": 0
+    },
+    {
+        "id": 1043,
+        "description_id": 426827,
+        "weight": 0
+    },
+    {
+        "id": 1044,
+        "description_id": 426971,
+        "weight": 0
+    },
+    {
+        "id": 1045,
+        "description_id": 620193,
+        "weight": 0
+    },
+    {
+        "id": 1046,
+        "description_id": 426634,
+        "weight": 0
+    },
+    {
+        "id": 1047,
+        "description_id": 637622,
+        "weight": 0
+    },
+    {
+        "id": 1048,
+        "description_id": 637621,
+        "weight": 0
+    },
+    {
+        "id": 1049,
+        "description_id": 427112,
+        "weight": 0
+    },
+    {
+        "id": 1050,
+        "description_id": 426709,
+        "weight": 0
+    },
+    {
+        "id": 1051,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 1052,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 1053,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 1054,
+        "description_id": 426756,
+        "weight": 0
+    },
+    {
+        "id": 1055,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 1057,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 1058,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 1059,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 1060,
+        "description_id": 659060,
+        "weight": 0
+    },
+    {
+        "id": 1061,
+        "description_id": 427061,
+        "weight": 0
+    },
+    {
+        "id": 1062,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 1063,
+        "description_id": 426943,
+        "weight": 0
+    },
+    {
+        "id": 1064,
+        "description_id": 426699,
+        "weight": 0
+    },
+    {
+        "id": 1065,
+        "description_id": 427010,
+        "weight": 0
+    },
+    {
+        "id": 1066,
+        "description_id": 427102,
+        "weight": 0
+    },
+    {
+        "id": 1067,
+        "description_id": 426746,
+        "weight": 0
+    },
+    {
+        "id": 1068,
+        "description_id": 426908,
+        "weight": 0
+    },
+    {
+        "id": 1069,
+        "description_id": 426658,
+        "weight": 0
+    },
+    {
+        "id": 1070,
+        "description_id": 426981,
+        "weight": 0
+    },
+    {
+        "id": 1071,
+        "description_id": 426835,
+        "weight": 0
+    },
+    {
+        "id": 1072,
+        "description_id": 434519,
+        "weight": 0
+    },
+    {
+        "id": 1073,
+        "description_id": 427096,
+        "weight": 0
+    },
+    {
+        "id": 1074,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 1075,
+        "description_id": 637620,
+        "weight": 0
+    },
+    {
+        "id": 1076,
+        "description_id": 519494,
+        "weight": 0
+    },
+    {
+        "id": 1077,
+        "description_id": 426820,
+        "weight": 0
+    },
+    {
+        "id": 1078,
+        "description_id": 427020,
+        "weight": 0
+    },
+    {
+        "id": 1079,
+        "description_id": 426738,
+        "weight": 0
+    },
+    {
+        "id": 1080,
+        "description_id": 426909,
+        "weight": 0
+    },
+    {
+        "id": 1081,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 1082,
+        "description_id": 426965,
+        "weight": 0
+    },
+    {
+        "id": 1083,
+        "description_id": 0,
+        "weight": 0
+    },
+    {
+        "id": 1084,
+        "description_id": 427058,
+        "weight": 0
+    },
+    {
+        "id": 1085,
+        "description_id": 426643,
+        "weight": 0
+    },
+    {
+        "id": 1086,
+        "description_id": 426901,
+        "weight": 0
+    },
+    {
+        "id": 1087,
+        "description_id": 426714,
+        "weight": 0
+    },
+    {
+        "id": 1091,
+        "description_id": 458587,
+        "weight": 0
+    },
+    {
+        "id": 1092,
+        "description_id": 434802,
+        "weight": 0
+    },
+    {
+        "id": 1093,
+        "description_id": 434929,
+        "weight": 0
+    },
+    {
+        "id": 1094,
+        "description_id": 434911,
+        "weight": 0
+    },
+    {
+        "id": 1095,
+        "description_id": 434906,
+        "weight": 0
+    },
+    {
+        "id": 1096,
+        "description_id": 434807,
+        "weight": 0
+    },
+    {
+        "id": 1097,
+        "description_id": 426843,
+        "weight": 0
+    },
+    {
+        "id": 1098,
+        "description_id": 426911,
+        "weight": 0
+    },
+    {
+        "id": 1099,
+        "description_id": 434607,
+        "weight": 0
+    },
+    {
+        "id": 1100,
+        "description_id": 506333,
+        "weight": 0
+    },
+    {
+        "id": 1101,
+        "description_id": 426940,
+        "weight": 0
+    },
+    {
+        "id": 1102,
+        "description_id": 426618,
+        "weight": 0
+    },
+    {
+        "id": 1103,
+        "description_id": 426776,
+        "weight": 0
+    },
+    {
+        "id": 1104,
+        "description_id": 506331,
+        "weight": 0
+    },
+    {
+        "id": 1105,
+        "description_id": 506329,
+        "weight": 0
+    },
+    {
+        "id": 1106,
+        "description_id": 435277,
+        "weight": 0
+    },
+    {
+        "id": 1107,
+        "description_id": 434793,
+        "weight": 0
+    },
+    {
+        "id": 1108,
+        "description_id": 434852,
+        "weight": 0
+    },
+    {
+        "id": 1109,
+        "description_id": 619932,
+        "weight": 0
+    },
+    {
+        "id": 1111,
+        "description_id": 435357,
+        "weight": 0
+    },
+    {
+        "id": 1118,
+        "description_id": 434971,
+        "weight": 0
+    },
+    {
+        "id": 1119,
+        "description_id": 434984,
+        "weight": 0
+    },
+    {
+        "id": 1120,
+        "description_id": 434901,
+        "weight": 0
+    },
+    {
+        "id": 1121,
+        "description_id": 434955,
+        "weight": 0
+    },
+    {
+        "id": 1122,
+        "description_id": 434958,
+        "weight": 0
+    },
+    {
+        "id": 1123,
+        "description_id": 504434,
+        "weight": 0
+    },
+    {
+        "id": 1124,
+        "description_id": 426780,
+        "weight": 0
+    },
+    {
+        "id": 1125,
+        "description_id": 426687,
+        "weight": 0
+    },
+    {
+        "id": 1126,
+        "description_id": 426836,
+        "weight": 0
+    },
+    {
+        "id": 1127,
+        "description_id": 426691,
+        "weight": 0
+    },
+    {
+        "id": 1128,
+        "description_id": 426642,
+        "weight": 0
+    },
+    {
+        "id": 1129,
+        "description_id": 435253,
+        "weight": 0
+    },
+    {
+        "id": 1131,
+        "description_id": 434862,
+        "weight": 0
+    },
+    {
+        "id": 1132,
+        "description_id": 434857,
+        "weight": 0
+    },
+    {
+        "id": 1133,
+        "description_id": 441054,
+        "weight": 0
+    },
+    {
+        "id": 1134,
+        "description_id": 434867,
+        "weight": 0
+    },
+    {
+        "id": 1135,
+        "description_id": 434820,
+        "weight": 0
+    },
+    {
+        "id": 1136,
+        "description_id": 434825,
+        "weight": 0
+    },
+    {
+        "id": 1137,
+        "description_id": 434812,
+        "weight": 0
+    },
+    {
+        "id": 1138,
+        "description_id": 434763,
+        "weight": 0
+    },
+    {
+        "id": 1139,
+        "description_id": 434766,
+        "weight": 0
+    },
+    {
+        "id": 1140,
+        "description_id": 434815,
+        "weight": 0
+    },
+    {
+        "id": 1141,
+        "description_id": 426987,
+        "weight": 0
+    },
+    {
+        "id": 1142,
+        "description_id": 427086,
+        "weight": 0
+    },
+    {
+        "id": 1144,
+        "description_id": 584320,
+        "weight": 0
+    },
+    {
+        "id": 1145,
+        "description_id": 435064,
+        "weight": 0
+    },
+    {
+        "id": 1146,
+        "description_id": 435067,
+        "weight": 0
+    },
+    {
+        "id": 1149,
+        "description_id": 435008,
+        "weight": 0
+    },
+    {
+        "id": 1150,
+        "description_id": 426686,
+        "weight": 0
+    },
+    {
+        "id": 1151,
+        "description_id": 435124,
+        "weight": 0
+    },
+    {
+        "id": 1152,
+        "description_id": 435003,
+        "weight": 0
+    },
+    {
+        "id": 1153,
+        "description_id": 435127,
+        "weight": 0
+    },
+    {
+        "id": 1154,
+        "description_id": 426628,
+        "weight": 0
+    },
+    {
+        "id": 1155,
+        "description_id": 427045,
+        "weight": 0
+    },
+    {
+        "id": 1159,
+        "description_id": 659053,
+        "weight": 0
+    },
+    {
+        "id": 1160,
+        "description_id": 434651,
+        "weight": 0
+    },
+    {
+        "id": 1161,
+        "description_id": 434637,
+        "weight": 0
+    },
+    {
+        "id": 1162,
+        "description_id": 434632,
+        "weight": 0
+    },
+    {
+        "id": 1163,
+        "description_id": 426721,
+        "weight": 0
+    },
+    {
+        "id": 1164,
+        "description_id": 426744,
+        "weight": 0
+    },
+    {
+        "id": 1165,
+        "description_id": 434644,
+        "weight": 0
+    },
+    {
+        "id": 1166,
+        "description_id": 434602,
+        "weight": 0
+    },
+    {
+        "id": 1167,
+        "description_id": 581749,
+        "weight": 0
+    },
+    {
+        "id": 1168,
+        "description_id": 426958,
+        "weight": 0
+    },
+    {
+        "id": 1169,
+        "description_id": 426914,
+        "weight": 0
+    },
+    {
+        "id": 1170,
+        "description_id": 426980,
+        "weight": 0
+    },
+    {
+        "id": 1171,
+        "description_id": 471274,
+        "weight": 0
+    },
+    {
+        "id": 1172,
+        "description_id": 471273,
+        "weight": 0
+    },
+    {
+        "id": 1173,
+        "description_id": 426796,
+        "weight": 0
+    },
+    {
+        "id": 1174,
+        "description_id": 435419,
+        "weight": 0
+    },
+    {
+        "id": 1175,
+        "description_id": 455106,
+        "weight": 0
+    },
+    {
+        "id": 1176,
+        "description_id": 459364,
+        "weight": 0
+    },
+    {
+        "id": 1177,
+        "description_id": 459421,
+        "weight": 0
+    },
+    {
+        "id": 1178,
+        "description_id": 459447,
+        "weight": 0
+    },
+    {
+        "id": 1179,
+        "description_id": 459520,
+        "weight": 0
+    },
+    {
+        "id": 1180,
+        "description_id": 464553,
+        "weight": 0
+    },
+    {
+        "id": 1181,
+        "description_id": 501957,
+        "weight": 0
+    },
+    {
+        "id": 1182,
+        "description_id": 501955,
+        "weight": 0
+    },
+    {
+        "id": 1183,
+        "description_id": 501953,
+        "weight": 0
+    },
+    {
+        "id": 1184,
+        "description_id": 624828,
+        "weight": 0
+    },
+    {
+        "id": 1185,
+        "description_id": 565289,
+        "weight": 0
+    },
+    {
+        "id": 1186,
+        "description_id": 577712,
+        "weight": 0
+    },
+    {
+        "id": 1187,
+        "description_id": 659061,
+        "weight": 0
+    },
+    {
+        "id": 1188,
+        "description_id": 737892,
+        "weight": 0
+    },
+    {
+        "id": 1189,
+        "description_id": 643699,
+        "weight": 0
+    },
+    {
+        "id": 1190,
+        "description_id": 744186,
+        "weight": 0
+    },
+    {
+        "id": 2017,
+        "description_id": 459663,
+        "weight": 0
+    },
+    {
+        "id": 2018,
+        "description_id": 464094,
+        "weight": 0
+    },
+    {
+        "id": 2019,
+        "description_id": 464096,
+        "weight": 0
+    },
+    {
+        "id": 2020,
+        "description_id": 556722,
+        "weight": 0
+    },
+    {
+        "id": 2021,
+        "description_id": 560539,
+        "weight": 0
+    },
+    {
+        "id": 2022,
+        "description_id": 581680,
+        "weight": 0
+    },
+    {
+        "id": 2023,
+        "description_id": 581698,
+        "weight": 0
+    },
+    {
+        "id": 2024,
+        "description_id": 581716,
+        "weight": 0
+    },
+    {
+        "id": 2025,
+        "description_id": 585677,
+        "weight": 0
+    },
+    {
+        "id": 2026,
+        "description_id": 588723,
+        "weight": 0
+    },
+    {
+        "id": 2027,
+        "description_id": 659059,
+        "weight": 0
+    },
+    {
+        "id": 2028,
+        "description_id": 659054,
+        "weight": 0
+    },
+    {
+        "id": 2029,
+        "description_id": 671412,
+        "weight": 0
+    },
+    {
+        "id": 2030,
+        "description_id": 671331,
+        "weight": 0
+    },
+    {
+        "id": 2160,
+        "description_id": 459642,
+        "weight": 0
+    },
+    {
+        "id": 2792,
+        "description_id": 459606,
+        "weight": 0
+    },
+    {
+        "id": 2793,
+        "description_id": 459624,
+        "weight": 0
+    },
+    {
+        "id": 2794,
+        "description_id": 659055,
+        "weight": 0
+    },
+    {
+        "id": 2795,
+        "description_id": 534822,
+        "weight": 0
+    },
+    {
+        "id": 2796,
+        "description_id": 659056,
+        "weight": 0
+    },
+    {
+        "id": 2797,
+        "description_id": 567460,
+        "weight": 0
+    },
+    {
+        "id": 2798,
+        "description_id": 595930,
+        "weight": 0
+    },
+    {
+        "id": 2800,
+        "description_id": 722830,
+        "weight": 15.0
+    },
+    {
+        "id": 2801,
+        "description_id": 722701,
+        "weight": -7.5
+    },
+    {
+        "id": 2802,
+        "description_id": 722829,
+        "weight": -7.5
+    },
+    {
+        "id": 2803,
+        "description_id": 722828,
+        "weight": 15.0
+    },
+    {
+        "id": 2804,
+        "description_id": 723503,
+        "weight": 15.0
+    },
+    {
+        "id": 2805,
+        "description_id": 722697,
+        "weight": -7.5
+    },
+    {
+        "id": 2806,
+        "description_id": 722787,
+        "weight": -7.5
+    },
+    {
+        "id": 2807,
+        "description_id": 722785,
+        "weight": 15.0
+    },
+    {
+        "id": 2808,
+        "description_id": 722784,
+        "weight": 15.0
+    },
+    {
+        "id": 2809,
+        "description_id": 722693,
+        "weight": -7.5
+    },
+    {
+        "id": 2810,
+        "description_id": 722783,
+        "weight": 0
+    },
+    {
+        "id": 2811,
+        "description_id": 722782,
+        "weight": 0
+    },
+    {
+        "id": 2812,
+        "description_id": 722781,
+        "weight": 15.0
+    },
+    {
+        "id": 2813,
+        "description_id": 722688,
+        "weight": -7.5
+    },
+    {
+        "id": 2814,
+        "description_id": 722831,
+        "weight": 0
+    },
+    {
+        "id": 2815,
+        "description_id": 722765,
+        "weight": 0
+    },
+    {
+        "id": 2816,
+        "description_id": 735940,
+        "weight": 0
+    }
+]

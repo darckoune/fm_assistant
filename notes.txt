@@ -1,0 +1,64 @@
+5745 : InteractiveUseMessage : Ouverture atelier fm
+5516 : ExchangeObjectAddedMessage : Contient l'objet � FM ou une rune
+5519 : ExchangeObjectModifiedMessage : Contient l'objet � FM ou une rune
+5511 : ExchangeReadyMessage : On lance le craft
+6188 : ExchangeCraftResultWithObjectDescMessage : L'objet modifi� et le status du r�sultat (1 : echec, 2 : succes)
+
+Sur interface 1er round :
+- Item en cours
+- Rune en cours
+- Liste des lignes : min, max, actuel
+- Poids de la ligne : max - actuel
+- Poids total
+- Reliquat
+
+sur interface 2nd round :
+- probas SC, SN, EC
+
+
+
+
+Modeles : 18/02
+
+Item:
+UID
+ID
+Nom
+[Lignes de stats]
+lvl
+reliquat
+update(rune, FMResult)
+
+Table de FM:
+Objet
+Rune
+draw()
+apply_rune(FMResult)
+
+________________________________________________
+
+
+MODELES BDD 23/02
+
+-- Item
+id
+nameId
+level
+iconId
+
+-- EffectLine
+id
+effectId
+min
+max
+
+-- ItemXEffectLine
+itemId
+effectLineId
+
+-- Effect
+id
+descriptionId
+weight
+
+-- Terms
