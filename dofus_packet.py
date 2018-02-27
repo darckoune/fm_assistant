@@ -18,7 +18,7 @@ class DofusPacket:
             parsed['data'] = data_parsed
         elif self.id == 6188:
             parsed['type'] = 'item_update'
-            data_parsed = self.parse_ExchangeCraftResultWithObjectDescMessage(self.raw_data)
+            parsed['data'] = self.parse_ExchangeCraftResultWithObjectDescMessage(self.raw_data)
         return parsed
 
     def parse_ExchangeObjectMessage(self, raw_data):
@@ -56,7 +56,37 @@ class DofusPacket:
         })
 
     def parse_ExchangeCraftResultWithObjectDescMessage(self, raw_data):
-        return 0
+        remaining, craftResult = self.readIntFromBytes(raw_data, 1)
+        remaining, objectGID = self.readVarShort(remaining)
+        remaining, numberOfEffects = self.readIntFromBytes(remaining, 2)
+        effects = []
+        for i in range (numberOfEffects):
+            remaining, effectType = self.readIntFromBytes(remaining, 2  )
+            if effectType == 70: #ObjectEffectInteger
+                remaining, actionId = self.readVarShort(remaining)
+                remaining, value = self.readVarShort(remaining)
+                effects.append({
+                    'actionId': actionId,
+                    'value': value
+                })
+            elif effectType == 82: #ObjectEffectMinMax
+                remaining, actionId = self.readVarShort(remaining)
+                remaining, mini = self.readVarShort(remaining)
+                remaining, maxi = self.readVarShort(remaining)
+                effects.append({
+                    'actionId': actionId,
+                    'min': mini,
+                    'max': maxi
+                })
+        remaining, objectUID = self.readVarInt(remaining)
+        remaining, quantity = self.readVarInt(remaining)
+        return ({
+            'craftResult': craftResult,
+            'objectGID': objectGID,
+            'effects': effects,
+            'objectUID': objectUID,
+            'quantity': quantity
+        })
 
     #Variable readers
 

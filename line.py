@@ -22,18 +22,10 @@ class Line:
         return self.effect_weight
 
     def getWeight(self):
-        weight = self.effect_weight*self.value
-        if weight == int(weight):
-            return int(weight)
-        else:
-            return "%.1f" % weight
+        return self.effect_weight*self.value
 
     def getMaxWeight(self):
-        max_weight = self.effect_weight*self.max
-        if max_weight == int(max_weight):
-            return int(max_weight)
-        else:
-            return "%.1f" % max_weight
+        return self.effect_weight*self.max
 
     def getMin(self):
         return self.min
@@ -48,7 +40,14 @@ class Line:
         return self.value
 
     def setValue(self, value):
+        self.last_modification = value - self.value
+        self.value = value
+
+    def initValue(self, value):
         self.value = value
 
     def isOvermax(self):
         return self.value > self.max
+
+    def getLastModification(self):
+        return self.last_modification

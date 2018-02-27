@@ -13,14 +13,15 @@ rune = None
 item = None
 
 def handle(pkt):
+    global rune
+    global item
     if pkt[IP].len > 40:
         try:
             pktdata = pkt[Raw].load
             while True:
                 pktdata, extracted = pop_pkt(pktdata)
                 if extracted.isInteresting():
-
-                    display.test(extracted.id)
+                    
                     parsed_packet = extracted.parse()
                     print(parsed_packet)
 
@@ -30,6 +31,9 @@ def handle(pkt):
                     elif parsed_packet['type'] == 'item':
                         item = Item(parsed_packet['data']['objectGID'], display)
                         item.initLinesUsingPacket(parsed_packet)
+
+                    elif parsed_packet['type'] == 'item_update':
+                        item.executeFM(parsed_packet, rune)
 
                 if len(pktdata) <= 2:
                     break

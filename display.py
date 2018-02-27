@@ -34,25 +34,24 @@ class Display(threading.Thread):
         ttk.Label(self.lines, text="Min").grid(column=1, row=1, sticky=W)
         ttk.Label(self.lines, text="Max").grid(column=2, row=1, sticky=W)
         ttk.Label(self.lines, text="Effet").grid(column=3, row=1, sticky=W)
-        ttk.Label(self.lines, text="Poids").grid(column=4, row=1, sticky=W)
+        ttk.Label(self.lines, text="Modif").grid(column=4, row=1, sticky=W)
+        ttk.Label(self.lines, text="Poids").grid(column=5, row=1, sticky=W)
         for child in self.lines.winfo_children(): child.grid_configure(padx=5, pady=2)
 
-        ttk.Label(self.mainframe, text="last ID :").grid(column=1, row=4, sticky=E)
-        self.lastID = ttk.Label(self.mainframe, text="aucun")
-        self.lastID.grid(column=2, row=4, sticky=W)
+        ttk.Label(self.mainframe, text="Reliquat :").grid(column=1, row=4, sticky=E)
+        self.reliquat = ttk.Label(self.mainframe, text="aucun")
+        self.reliquat.grid(column=2, row=4, sticky=W)
 
         for child in self.mainframe.winfo_children(): child.grid_configure(padx=5, pady=2)
 
         self.root.mainloop()
-
-    def test(self, lastID):
-        self.lastID["text"] = str(lastID)
 
     def updateRune(self, rune):
         self.rune["text"] = rune.getName() + ' | ' + rune.getDescription() + ' (poids : ' + str(rune.getWeight()) + ')'
 
     def updateItem(self, item):
         self.item["text"] = item.getName() + ' (niveau : '+ str(item.getLevel()) +')'
+        self.reliquat["text"] = self.myStr(item.getReliquat())
         for widget in self.lines.winfo_children():
             if widget.grid_info()["row"] != 1:
                 widget.destroy()
@@ -61,6 +60,31 @@ class Display(threading.Thread):
             ttk.Label(self.lines, text=str(line.getMin())).grid(column=1, row=row, sticky=W)
             ttk.Label(self.lines, text=str(line.getMax())).grid(column=2, row=row, sticky=W)
             ttk.Label(self.lines, text=line.getDescription()).grid(column=3, row=row, sticky=W)
-            ttk.Label(self.lines, text=str(line.getWeight()) + "/" + str(line.getMaxWeight())).grid(column=4, row=row, sticky=W)
+            ttk.Label(self.lines, text=self.myStrWithSign(line.getLastModification())).grid(column=4, row=row, sticky=W)
+            ttk.Label(self.lines, text=self.myStr(line.getWeight()) + "/" + self.myStr(line.getMaxWeight())).grid(column=5, row=row, sticky=W)
+            if line.getLastModification() > 0:
+                for widget in self.lines.winfo_children():
+                    if widget.grid_info()["row"] == row:
+                        widget['foreground'] = 'green'
+            elif line.getLastModification() < 0:
+                for widget in self.lines.winfo_children():
+                    if widget.grid_info()["row"] == row:
+                        widget['foreground'] = 'red'
+            else:
+                for widget in self.lines.winfo_children():
+                    if widget.grid_info()["row"] == row:
+                        widget['foreground'] = ''
             row+=1
         for child in self.lines.winfo_children(): child.grid_configure(padx=5, pady=2)
+
+    def myStr(self, number):
+        if number == int(number):
+            return str(int(number))
+        else:
+            return "%.1f" % number
+
+    def myStrWithSign(self, number):
+        if number > 0:
+            return ('+' + str(number))
+        else:
+            return str(number)
