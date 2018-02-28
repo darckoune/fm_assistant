@@ -21,7 +21,7 @@ def handle(pkt):
             while True:
                 pktdata, extracted = pop_pkt(pktdata)
                 if extracted.isInteresting():
-                    
+
                     parsed_packet = extracted.parse()
                     print(parsed_packet)
 

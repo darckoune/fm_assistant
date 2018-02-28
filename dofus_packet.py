@@ -61,7 +61,7 @@ class DofusPacket:
         remaining, numberOfEffects = self.readIntFromBytes(remaining, 2)
         effects = []
         for i in range (numberOfEffects):
-            remaining, effectType = self.readIntFromBytes(remaining, 2  )
+            remaining, effectType = self.readIntFromBytes(remaining, 2)
             if effectType == 70: #ObjectEffectInteger
                 remaining, actionId = self.readVarShort(remaining)
                 remaining, value = self.readVarShort(remaining)
@@ -80,12 +80,14 @@ class DofusPacket:
                 })
         remaining, objectUID = self.readVarInt(remaining)
         remaining, quantity = self.readVarInt(remaining)
+        remianing, magicPoolStatus = self.readIntFromBytes(remaining, 1)
         return ({
             'craftResult': craftResult,
             'objectGID': objectGID,
             'effects': effects,
             'objectUID': objectUID,
-            'quantity': quantity
+            'quantity': quantity,
+            'magicPoolStatus': magicPoolStatus
         })
 
     #Variable readers

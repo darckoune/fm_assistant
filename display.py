@@ -52,6 +52,8 @@ class Display(threading.Thread):
     def updateItem(self, item):
         self.item["text"] = item.getName() + ' (niveau : '+ str(item.getLevel()) +')'
         self.reliquat["text"] = self.myStr(item.getReliquat())
+        if item.getLastReliquatModification() != 0:
+            self.reliquat["text"] += ' (' + self.myStrWithSign(item.getLastReliquatModification()) + ')'
         for widget in self.lines.winfo_children():
             if widget.grid_info()["row"] != 1:
                 widget.destroy()

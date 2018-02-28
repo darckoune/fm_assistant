@@ -21,9 +21,13 @@ class Item:
             if line[0] not in [983, 984]: #lignes d'item echangeable
                 self.original_lines.append(Line(line[0], line[1], line[2]))
 
+        for line in self.original_lines:
+            print(line.isNegative())
+
         self.exotic_lines = []
 
         self.reliquat = 0
+        self.last_reliquat_modification = 0
 
         connection.close()
 
@@ -53,11 +57,14 @@ class Item:
     def getWeight(self):
         total = 0
         for line in self.getLines():
-            total += line.getWeight
+            total += line.getWeight()
         return total
 
     def getReliquat(self):
         return self.reliquat
+
+    def getLastReliquatModification(self):
+        return self.last_reliquat_modification
 
     def initLinesUsingPacket(self, packet):
         packet_lines = packet['data']['effects']
@@ -75,6 +82,7 @@ class Item:
         self.listener.updateItem(self)
 
     def executeFM(self, result_packet, rune):
+
         packet_lines = result_packet['data']['effects']
         for line in packet_lines:
             try:
@@ -111,12 +119,10 @@ class Item:
         print('Result : ' + result_type)
         print('Theorical earning : ' + str(theorical_earned_weight))
         print('Real earning :' + str(real_earned_weight))
-        self.reliquat += -1*(real_earned_weight-theorical_earned_weight)
+        self.last_reliquat_modification = -1*(real_earned_weight-theorical_earned_weight)
+        self.reliquat += self.last_reliquat_modification
 
-        #cas spécial de SC avec seulement une partie de la rune passee : c'est en fait un SN
-        if result_type == 'SC' and real_earned_weight-theorical_earned_weight != 0:
-            result_type = 'SN'
-            self.reliquat -= rune.getWeight()
+        self.clean_lines()
 
         self.listener.updateItem(self)
         return result_type
@@ -126,16 +132,19 @@ class Item:
         for line in self.getLines():
             if line.getLastModification() < 0:
                 malus = True
+        sth_lowered = malus or result_packet['data']['magicPoolStatus'] == 3 # magicPoolStatus = 3 --> -reliquat
         if result_packet['data']['craftResult'] == 2: #succes
-            if malus:
+            if sth_lowered:
                 return 'SN'
             else:
                 return 'SC'
         elif result_packet['data']['craftResult'] == 1:#echec
-            if malus:
+            if sth_lowered:
                 return 'EC'
             else:
-                if self.reliquat > 0:
-                    return 'EC'
-                else:
-                    return 'EN'
+                return 'EN'
+
+    def clean_lines(self):
+        for line in self.exotic_lines:
+            if line.getValue() == 0 and line.getLastModification() == 0:
+                self.exotic_lines.remove(line)
